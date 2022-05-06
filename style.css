@@ -1,0 +1,298 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto',sans-serif;
+}
+.header-nav{
+    background-color: azure;
+    background-image: url(images/slider-update-2.jpg);
+    background-repeat: no-repeat;
+}
+.nav-area{
+    padding: 40px 20px;
+}
+.nav-img{
+    height: 90px;
+}
+.nav-color a{
+    
+    color: rgb(255, 255, 255);
+    
+}
+/* .navMargin{
+    padding-right: 250PX;
+} */
+.head-text-h1{
+    padding-top: 55px;
+    font-size: 65px;
+    color: azure;
+    background-color: #2e9ae205;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    line-height: 100%;
+    margin-bottom: 16px;
+}
+.head-text-p{
+    color: azure;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+.buttonDiv{
+    padding: 8px 0px;
+}
+.buttonA{
+    text-decoration: none;
+    color: azure;
+    padding: 50px 34px;
+}
+.buttons{
+    margin-bottom: 20px;
+}
+/* images box */
+.box-image{
+    margin-top: 60px;
+    margin-left: 120px;
+    margin-bottom: 40px;
+    margin-right: 90px;
+}
+.box-image-pattern{
+    background-image: url(images/pattern.jpg);
+    display: flex;
+    border-radius: 5px;
+}
+.box-img-text{
+    text-align: center;
+    padding: 50px;
+}
+.box-img-text-h3{
+    color: aliceblue;
+    padding-bottom: 5px;
+    font-family: 'Roboto',sans-serif;
+}
+.box-img-text-p{
+    color: aliceblue;
+    font-family: 'Roboto',sans-serif;
+    font-size: 18px;
+}
+.box-img-button{
+    margin-top: 75px;
+    margin-left: 50px;
+    padding-left: 40px;
+}
+.SKYTECH-SOLUTIONS{
+    background-image: url(images/BG-home-new4.png);
+    background-repeat: no-repeat; 
+    padding-bottom: 150px;
+}
+.solution-img-div{
+    margin-left: 120px;
+     
+}
+.solution-img{
+    border-radius: 50px;
+    border-end-end-radius: 180px;
+}
+.SKYTECH-SOLUTIONS-text{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.SOLUTIONS-h5{
+    color: rgb(95, 95, 95);
+}
+.SOLUTIONS-h2{
+    font-size: 40px;
+    color: #383636!important;
+}
+.SOLUTIONS-p{
+    padding-top: 10px;
+    padding-right: 120px;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+.Services{
+    background-color: #d3e4f8;;
+}
+/* services  section */
+.services{
+    background-color:aliceblue;
+    padding-top: 50px;
+}
+.services-text-h5{
+    text-align: center;
+    font-weight: 500;
+    font-size: 17px;
+   color: rgb(77, 75, 75);
+}
+.services-text-p{
+    text-align: center;
+    font-weight: 500;
+    font-size: 16px;
+   color: rgb(95, 95, 95);
+   padding: 7px 65px;
+
+}
+.services-text-h2{
+    text-align: center;
+    font-weight: 700;
+    font-size: 38px;
+   color: rgb(32, 32, 32);
+}
+/* service card */
+.services-card{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 15px 80px;
+}
+.card-1{
+    text-align: center;
+    border-radius: 20px;
+}
+.card-images{
+    padding: 40px;
+    /* height: 280px; */
+}
+.img-section{
+    padding: 20px 200px;
+}
+/* cover img */
+
+.cover-img{
+    background-image: url(images/inbound-call-center-cover.jpeg);
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+.cover-img-area{
+    padding: 160px 0px;
+}
+.Clients-section{
+    margin-top: 55px;
+}
+/* side card img */
+.side-card-img{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.blog-part{
+    
+}
+.card-bg-color{
+    background-color: #bdc5cc60;
+}
+
+.blog-img-h3{
+    padding-top: 480px;
+}
+.blog-img-1{
+    padding: 10px;
+    padding-bottom: 60px;
+}
+
+.blog-img-h3{
+    bottom: 1px;
+    left: 2px;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+.blog-img-2{
+    padding: 10px;
+}
+.blog-img-3{
+    padding: 10px;
+}
+/* footer */
+.footer{
+    background-color: #7bdcb57e;
+    height: 290px;
+    width: 100%;
+}
+.footer-end{
+    background-color: #7bdcb57e;
+}
+.footer-img{
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+/*............... about page.............. */
+
+.about-header-nav{
+    background-color: azure;
+    background-image: url(images/about/About-us.jpg);
+    background-repeat: no-repeat;
+    opacity: 2;
+}
+.about-head-text-h1{
+    padding-top: 67px;
+    font-size: 60px;
+    color: azure;
+    background-color: #2e9ae205;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    line-height: 100%;
+    margin-bottom: 27px;
+}
+.about-head-text-p{
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    padding-bottom: 260px;
+}
+.our-mission{
+    margin-top: 00px;
+    padding-bottom: 20px;
+}
+.vision-img{
+    border-radius: 50px;
+    border-top-left-radius: 180px;
+}
+.img-part{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+.video-part{
+    margin-top: 750px;
+}
+
+/* page.. how we work */
+.work-header-nav{
+    background-color: azure;
+    background-image: url(images/how-we-work/how-we-work-1536x864.jpg);
+    background-repeat: no-repeat;
+}
+.Learn-about-img{
+    border-radius: 50px;
+    border-top-left-radius: 180px;
+}
+/* page.. services/CustomerSupport */
+.CustomerSupport-header-nav{
+    background-color: azure;
+    background-image: url(images/customer-support/castomer-support-cover-1536x864.jpg);
+    background-repeat: no-repeat;
+}
+.customer-head-text-p{
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    padding-bottom: 80px;
+}
+.customer-side-card-img{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.Industries-serve{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.Industries-serve-bg {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    
+}
+/* career */
+.CustomerSupport-header-nav{
+    background-color: azure;
+    background-image: url(images/career/Job-Interview.jpg);
+    background-repeat: no-repeat;
+}
